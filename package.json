@@ -29,11 +29,9 @@
     "Team",
     "Lead"
   ],
-  "devDependencies": {},
-  "scripts": {},
-  "dependencies": {
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
     "bootstrap": "^4.6.0",
-    "fontawesome": "^5.6.3",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
   }
