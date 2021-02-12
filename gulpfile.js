@@ -2,9 +2,10 @@ const { src, dest, series } = require("gulp");
 const xo = require("gulp-xo");
 const stylelint = require("gulp-stylelint");
 const htmlhint = require("gulp-htmlhint");
+const jsonlint = require("gulp-jsonlint");
 const prettier = require("gulp-prettier");
 
-function css() {
+function cssLint() {
   return src("assets/css/styles.css").pipe(
     stylelint({
       failAfterError: true,
@@ -15,32 +16,28 @@ function css() {
   );
 }
 
-function html() {
+function htmlLint() {
   return src(["index.html"])
     .pipe(htmlhint())
     .pipe(htmlhint.reporter())
     .pipe(htmlhint.failAfterError());
 }
 
-function eslintXO() {
-  return src(["assets/main.js", "gulpfile.js"])
+function jsonLint() {
+  return src(["package.json", ".stylelintrc.json", ".xo-config.json"])
+    .pipe(jsonlint())
+    .pipe(jsonlint.failOnError());
+}
+
+function jsLint() {
+  return src(["assets/main.js", "gulpfile.js", ".prettierrc.js"])
     .pipe(
       xo({
-        globals: ["jQuery", "$", "document", "window"],
+        globals: ["$", "window"],
       })
     )
     .pipe(xo.format())
     .pipe(xo.failAfterError());
-}
-
-function prettierCheck() {
-  return src([
-    "assets/main.js",
-    "assets/css/styles.css",
-    ".prettierrc.js",
-    "gulpfile.js",
-    "index.html",
-  ]).pipe(prettier.check());
 }
 
 exports.prettier = function () {
@@ -49,10 +46,13 @@ exports.prettier = function () {
     "assets/css/styles.css",
     ".prettierrc.js",
     "gulpfile.js",
+    ".stylelintrc.json",
+    ".xo-config.json",
+    "package.json",
     "index.html",
   ])
     .pipe(prettier())
     .pipe(dest((file) => file.base));
 };
 
-exports.validate = series(eslintXO, prettierCheck, css, html);
+exports.validate = series(jsLint, jsonLint, cssLint, htmlLint);
