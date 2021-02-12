@@ -50,6 +50,7 @@ exports.prettier = function () {
     ".xo-config.json",
     "package.json",
     "index.html",
+    ".github/**/*.yml",
   ])
     .pipe(prettier())
     .pipe(dest((file) => file.base));
