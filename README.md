@@ -1,6 +1,6 @@
 # Good day! 👋
 
-I am employed as Chief Development Officer at HEXONET GmbH which is part of the CentralNic Group PLC.
+I am working as Chief Development Officer, Middleware for the CentralNic Group PLC.
 
 - :superhero: Author and Maintainer of several WHMCS modules, addons and widgets
 - :mage_man: Author and Maintainer of HEXONET's SDK modules and their Demo Apps written in Java, PHP, Go, Node.js, Perl and Python
