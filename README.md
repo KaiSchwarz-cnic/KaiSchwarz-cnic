@@ -20,5 +20,5 @@ I am working as Manager Software Development (Middleware) for the CentralNic Gro
 If you want to check my whole work, find all the open source repositories listed below:
 
 - [HEXONET](https://github.com/hexonet)
-- [RRPproxy](https://github.com/rrpproxy).
+- [RRPproxy](https://github.com/rrpproxy)
 - [CentralNic-Reseller](https://github.com/centralnic-reseller).
