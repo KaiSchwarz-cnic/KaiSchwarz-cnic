@@ -25,6 +25,6 @@ If you want to check my whole work, find all the open source repositories listed
 - [CentralNic-Reseller](https://github.com/centralnic-reseller)
 - [CentralNicGroup-OpenSource](https://github.com/centralnicgroup-opensource).
 
-- ### ✨ My Github Stats
+## ✨ My Github Stats
 <p align="left"> <a href="https://git.io/streak-stats"><img alt="Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=kaischwarz-cnic&theme=monokai&hide_border=true" /></a> </p>
 
