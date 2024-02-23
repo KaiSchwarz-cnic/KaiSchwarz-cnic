@@ -1,12 +1,12 @@
 # Good day! 👋
 
-I am working as Manager Software Development (Middleware) for the CentralNic Group PLC.
+I am working as Manager Software Development (Middleware) for the Team Internet Group PLC.
 
 - :rocket: Leading this strong Team :hearts:
-- :superhero: Author / Maintainer of several WHMCS Registrar Modules, Addons and Widgets
-- :mage_man: Author and Maintainer of API connector libraries aka. "SDKs" and their Demo Apps (Java, PHP, Go, Node.js, Perl and Python)
-- :genie: Author and Maintainer of HEXONET's DNSControl Registrar Module
-- :construction_worker: Maintainer of HEXONET's Blesta Registrar Module
+- :superhero: Author / Maintainer of several WHMCS Registrar Modules, Addons and Widgets (HEXONET, CentralNic Reseller, Internet.bs, TPP Wholesale)
+- :mage_man: Author and Maintainer of API connector libraries for Registrar Systems aka. "SDKs" and their Demo Apps (Java, PHP, Go, Node.js, Perl and Python)
+- :genie: Author and Maintainer of HEXONET's DNSControl Provider Module
+- :construction_worker: Author and Maintainer of HEXONET's Blesta Registrar Module
 - :technologist: Maintainer of a javascript-based [IDN converter library](https://www.npmjs.com/package/idna-uts46-hx) with >360k Downloads/week!
 - 💡 Realizing and Improving build and release processes by automation (CI/CD)
 - :rainbow: Test Automation
