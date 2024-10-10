@@ -23,5 +23,7 @@ If you want to check my whole work, find all the open source repositories listed
 - [CentralNic Group PLC (OpenSource)]([https://github.com/centralnicgroup-opensource](https://github.com/orgs/centralnicgroup-opensource/repositories?q=rtldev-middleware-&type=all&language=&sort=))
 - [CentralNic Group PLC (Public)]([https://github.com/centralnicgroup-opensource](https://github.com/orgs/centralnicgroup-public/repositories?q=rtldev-middleware-&type=all&language=&sort=))
 
+Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kai-schwarz-msc/) if you’re looking for a chat!
+
 ## ✨ My Github Stats
 <p align="left"> <a href="https://git.io/streak-stats"><img alt="Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=kaischwarz-cnic&theme=ads-juicy-fresh&hide_border=true" /></a> </p>
