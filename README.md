@@ -3,10 +3,10 @@
 I am working as Manager Software Development, 3rd-party Software Integrations, for the Team Internet Group PLC.
 
 - :rocket: Leading this strong Team :hearts:
-- :superhero: Author of several WHMCS Registrar Modules, Addons and Widgets (CentralNic Reseller, Internet.bs, Moniker, TPP Wholesale, -HEXONET-)
-- :mage_man: Author of several API connector libraries for Registrar Systems aka. "SDKs" and their Demo Apps (Java, PHP, Go, Node.js, Python, -Perl-)
-- :genie: Author of several DNSControl Provider Modules (CentralNic Reseller, -HEXONET-)
-- :construction_worker: former Author/Maintainer of several now legacy Blesta Registrar Modules (-CentralNic Reseller-, -HEXONET-)
+- :superhero: Author of several WHMCS Registrar Modules, Addons and Widgets (CentralNic Reseller, Internet.bs, Moniker, TPP Wholesale, ~~HEXONET~~)
+- :mage_man: Author of several API connector libraries for Registrar Systems aka. "SDKs" and their Demo Apps (Java, PHP, Go, Node.js, Python, ~~Perl~~)
+- :genie: Author of several DNSControl Provider Modules (CentralNic Reseller, ~~HEXONET~~)
+- :construction_worker: former Author/Maintainer of several now legacy Blesta Registrar Modules (~~CentralNic Reseller~~, ~~HEXONET~~)
 - :technologist: Author of the javascript-based [IDN converter library](https://www.npmjs.com/package/idna-uts46-hx) with >600k Downloads/week!
 - 💡 Realizing and Improving build and release processes by automation (CI/CD)
 - :rainbow: Test Automation
