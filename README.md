@@ -6,17 +6,18 @@ I am working as Manager Software Development, 3rd-party Software Integrations, f
 - :superhero: Author of several WHMCS Registrar Modules, Addons and Widgets (CentralNic Reseller, Internet.bs, Moniker, TPP Wholesale, ~~HEXONET~~)
 - :mage_man: Author of several API connector libraries for Registrar Systems aka. "SDKs" and their Demo Apps (Java, PHP, Go, Node.js, Python, ~~Perl~~)
 - :genie: Author of several DNSControl Provider Modules (CentralNic Reseller, ~~HEXONET~~)
-- :construction_worker: former Author/Maintainer of several now legacy Blesta Registrar Modules (~~CentralNic Reseller~~, ~~HEXONET~~)
-- :technologist: Author of the javascript-based [IDN converter library](https://www.npmjs.com/package/idna-uts46-hx) with >600k Downloads/week!
+- :construction_worker: former Author/Maintainer of several Blesta Registrar Modules (CentralNic Reseller, ~~HEXONET~~)
+- :technologist: Author of the javascript-based [IDN converter library](https://www.npmjs.com/package/idna-uts46-hx) with >440k Downloads/week!
 - 💡 Realizing and Improving build and release processes by automation (CI/CD)
 - :rainbow: Test Automation
 - 🌐 Former [pem](https://www.npmjs.com/package/pem) and [YUI](https://yuilibrary.com/) contributor
 - 🕒 Working non-stop
 - 🔓 20% of my **code** is open-source
+- 🧠 Agile and AI-driven Development
 - :ear: Open and looking for new technologies and ways to improve
 - 🍇 Fruits: stability, security, performance, automation & AI - time is money!
 - 🎯 Focusing on **Sustainability** and **quality assurance**
-- :phone: WHMCS Customer Support & Success
+- :phone: Customer Support & Success
 
 If you want to check my whole work, find all the open source repositories listed below:
 
